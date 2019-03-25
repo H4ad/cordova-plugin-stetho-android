@@ -1,4 +1,4 @@
-package com.outsystems.mobile.stetho;
+package com.outsystems.mobile.stetho.clone;
 
 import com.facebook.stetho.InspectorModulesProvider;
 import com.facebook.stetho.Stetho;
