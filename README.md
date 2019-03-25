@@ -1,3 +1,8 @@
+# Fork
+
+The fork of Stetho for Ionic because the original package was broken.
+
+
 # Stetho Plugin for Android
 
 
@@ -16,7 +21,7 @@ The Stetho is initialized when the Cordova is initialized, so the only requirmen
 - Run the following command:
 
 ```shell
-    cordova plugin add cordova-plugin-stetho-android 
+    cordova plugin add com.outsystems.mobile.stetho 
 ``` 
 
 ## Features
